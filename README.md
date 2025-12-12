@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Francisco Chan</h1>
 
-<h3 align="center">A passionate Data Engineer From Mexico</h3>
+<h3 align="center">A passionate Data Engineer from Mexico</h3>
+
+!\[Portfolio\](https://badgen.net/badge/portfolio/blue?icon=chrome)
 
 <!--
 **Frank3040/frank3040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=frank3040&label=Profile%20views&color=0e75b6&style=flat" alt="frank3040" /> </p>
 
 - 🔭 I’m currently working on **a Data Warehousing Project**
 
