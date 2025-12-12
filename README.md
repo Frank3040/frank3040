@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **a Data Warehousing Project**
 
-- 🌱 I’m currently learning **Cloud Technologies AWS, GCP, AZURE**
+- 🌱 I’m currently learning and diving deep into **Cloud Technologies AWS, GCP, AZURE**
 
 - 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
 
