@@ -6,7 +6,7 @@
   <a href="https://your-portfolio-url.com">
     <img src="https://img.shields.io/badge/Portfolio-7F09C8?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/francisco-gabriel-chan-pech-9a0744293">
+  <a href="https://www.linkedin.com/in/francisco-gabriel-chan-pech-9a0744293" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:francisco.chpech@email.com">
