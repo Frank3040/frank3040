@@ -35,7 +35,7 @@
 
 | Area | Technologies |
 |------|--------------|
-| **Languages** | Python, SQL, JavaScript (basic) |
+| **Languages** | Python, SQL, JavaScript |
 | **Data Engineering** | Pandas, Polars, Airflow, Kafka, Spark |
 | **Databases** | PostgreSQL, MongoDB, Redis |
 | **Cloud & DevOps** | AWS, GCP, Docker, Git, Linux |
