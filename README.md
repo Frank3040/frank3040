@@ -18,6 +18,6 @@
 **Frank3040/frank3040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 👨‍💻 All of my projects are available at [Francisco's Portfolio](https://frank3040.github.io/).
+- 👨‍💻 All of my projects are available at [Francisco's Portfolio](https://frank3040.github.io/projects/).
 - 📫 How to reach me **francisco.chpech@gmail.com**
 
